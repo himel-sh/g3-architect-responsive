@@ -13,6 +13,11 @@
     display: flex;
 }
 
+.section-title {
+    font-size: 2.813rem;
+    font-weight: 700;
+}
+
 /* dark2 */
 .text-gray {
     color: #424242;
@@ -123,10 +128,7 @@ main>section {
     gap: 1.2rem;
 }
 
-.feature-title {
-    font-size: 2.813rem;
-    font-weight: 700;
-}
+
 
 .our-features {
     margin-left: 75px;
